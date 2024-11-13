@@ -92,6 +92,7 @@ body {
   letter-spacing: -0.22px;
   margin-bottom: 1.1rem;
   display: block;
+  font-weight: 700;
 }
 
 .price-grid-component__text {
